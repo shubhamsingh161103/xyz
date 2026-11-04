@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SKS Apparel | Modern Streetwear</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header class="navbar">
+        <div class="logo">SKS</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#shop">Shop</a></li>
+                <li><a href="#about">Our Story</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="cart-icon">
+            <a href="#cart">Cart (0)</a>
+        </div>
+    </header>
+
+    <!-- Hero Showcase Section -->
+    <section id="home" class="hero-section">
+        <div class="hero-content">
+            <h1>SKS APPAREL</h1>
+            <p>Define your style. Elevate your everyday wardrobe.</p>
+            <a href="#shop" class="cta-btn">Shop New Arrivals</a>
+        </div>
+    </section>
+
+</body>
+</html>
+

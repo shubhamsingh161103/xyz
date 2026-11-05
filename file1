@@ -24,15 +24,5 @@
         </div>
     </header>
 
-    <!-- Hero Showcase Section -->
-    <section id="home" class="hero-section">
-        <div class="hero-content">
-            <h1>SKS APPAREL</h1>
-            <p>Define your style. Elevate your everyday wardrobe.</p>
-            <a href="#shop" class="cta-btn">Shop New Arrivals</a>
-        </div>
-    </section>
-
 </body>
-</html>
-
+</html/>

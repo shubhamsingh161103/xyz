@@ -2,12 +2,3 @@
                 <li><a href="#shop">Shop</a></li>
                 <li><a href="#about">Our Story</a></li>
                 <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-        <div class="cart-icon">
-            <a href="#cart">Cart (0)</a>
-        </div>
-    </header>
-
-</body>
-</html/>
